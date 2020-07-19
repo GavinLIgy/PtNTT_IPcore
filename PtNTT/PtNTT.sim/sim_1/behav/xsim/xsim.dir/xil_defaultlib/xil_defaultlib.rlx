@@ -1,0 +1,9 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/12217/Documents/GitHub/PtNTT_IPcore/PtNTT/PtNTT.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/12217/Documents/GitHub/PtNTT_IPcore/PtNTT/PtNTT.srcs/sim_1/new/tb_reduce.v,1590421163,verilog,,,,tb_reduce,,,,,,,,
+C:/Users/12217/Documents/GitHub/PtNTT_IPcore/PtNTT/PtNTT.srcs/sources_1/new/barr_reduce.v,1590420737,verilog,,C:/Users/12217/Documents/GitHub/PtNTT_IPcore/PtNTT/PtNTT.srcs/sources_1/new/mont_reduce.v,C:/Users/12217/Documents/GitHub/PtNTT_IPcore/PtNTT/PtNTT.srcs/sources_1/new/params.v,barr_reduce,,,,,,,,
+C:/Users/12217/Documents/GitHub/PtNTT_IPcore/PtNTT/PtNTT.srcs/sources_1/new/mont_reduce.v,1590468149,verilog,,C:/Users/12217/Documents/GitHub/PtNTT_IPcore/PtNTT/PtNTT.srcs/sim_1/new/tb_reduce.v,C:/Users/12217/Documents/GitHub/PtNTT_IPcore/PtNTT/PtNTT.srcs/sources_1/new/params.v,mont_reduce,,,,,,,,
+C:/Users/12217/Documents/GitHub/PtNTT_IPcore/PtNTT/PtNTT.srcs/sources_1/new/params.v,1590467668,verilog,,C:/Users/12217/Documents/GitHub/PtNTT_IPcore/PtNTT/PtNTT.srcs/sources_1/new/barr_reduce.v,,,,,,,,,,

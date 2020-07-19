@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../PtNTT.srcs/sources_1/new/params.v" \
+"../../../../PtNTT.srcs/sources_1/new/barr_reduce.v" \
+"../../../../PtNTT.srcs/sources_1/new/mont_reduce.v" \
+"../../../../PtNTT.srcs/sim_1/new/tb_reduce.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
